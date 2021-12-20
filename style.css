@@ -1,0 +1,51 @@
+.heading{
+    font-size: 23px;
+    width:100% ;
+    margin: 0px;
+
+}
+.note{
+    font-size: 15px;
+    color: rgb(0, 0, 0);
+    font-weight: bold;
+
+}
+body{
+    background-size: cover;
+
+}
+.speed_image{
+    width: 200px;
+    border-radius: 100px;
+
+}
+.volume_image{
+    width: 200px;
+    border-radius: 100px;
+
+}
+.div_speed{
+    float: left;
+}
+.div_volume{
+    float: right;
+}
+#speed{
+    font-size: 23px;
+    margin: 15px;
+    box-shadow: 5px 5px 5px #ff2020;
+}
+#volume{
+    font-size: 23px;
+    margin: 15px;
+    box-shadow: 5px 5px 5px #ff2020;
+}
+.play_button{
+    width: 130px; 
+    font-size: 25px;
+}
+canvas{
+    border: 5px solid white;
+    border-radius: 20px;
+    
+}
